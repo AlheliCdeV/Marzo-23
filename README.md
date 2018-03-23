@@ -1,2 +1,2 @@
-# Marzo-23
-Segunda clase seminario  gráfica computacional
+# Marzo-16
+seminario grafica computacional marzo 16
